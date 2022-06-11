@@ -1,0 +1,6 @@
+Mina
+1
+0
+750.0
+TEST
+true

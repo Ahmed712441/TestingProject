@@ -1,0 +1,6 @@
+mohannad
+2
+honda
+15000.0
+VIP
+true
